@@ -1,0 +1,11 @@
+Hola Mundo
+
+
+ NO
+NO
+2         SI SI 3         SI SI SI
+NO Título tema (1) Presentación asignatura, docente y estudiantes. Resumen Estrategia docente Fecha entrega  (1) Importancia de la asignatura en la formación del estudiante, dar lectura al Syllabus. Instalación de las herramientas a trabajar durante el semestre.
+
+if (edad >= 18) {
+  print("Mayor de Edad");
+}
