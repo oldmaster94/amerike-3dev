@@ -15,4 +15,3 @@ cd - me permite cambiar de directorio
   cd "Carpeta con espacios"
 rm - elimina archivos
   rm -r - nos permite eliminar carpetas y su contenido
-Nueva linea insertada desde vim
