@@ -14,6 +14,17 @@ Hola soy tu amigo y docente digital.
 
 ## Estudiantes
 
+### María Fernanda Vásquez Alatriste González
+
+Soy una estudiante de Desarrollo de Software Interactivo y Videojuegos con gran interés en el desarrollo web.
+
+- [cdmx2571@amerike.edu.mx](cdmx2571@amerike.edu.mx)
+- [MaferVAG](https://github.com/MaferVAG)
+
+![MaferVAG](./img/MaferVAG.jpg)
+
+---
+
 ### Leonardo Ramírez
 
 Hola soy Leo, me gustan los videojuegos y la pizza.
@@ -23,4 +34,3 @@ Hola soy Leo, me gustan los videojuegos y la pizza.
   ![Tu nombre](./img/leo.jpeg)
 
 ---
-
